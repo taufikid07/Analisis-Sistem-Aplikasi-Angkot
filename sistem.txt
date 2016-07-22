@@ -3,3 +3,5 @@ function 1 ();
 function 2 ();
 
 Perubahan function 3 (); 
+
+function 4 ();
